@@ -1,4 +1,4 @@
-# projet-extension-navigateur-ada-study-buddy
+# Projet-extension-navigateur-ada-study-buddy
 # Ada-Study-Buddy
 
 ![image](https://github.com/user-attachments/assets/54945f9e-ae9a-4cde-8290-ba3ca61b011d)
