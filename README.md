@@ -1,6 +1,8 @@
 # Projet-extension-navigateur-ada-study-buddy
 # Ada-Study-Buddy
 
-[images]https://github.com/user-attachments/assets/54945f9e-ae9a-4cde-8290-ba3ca61b011d
-https://github.com/user-attachments/assets/54779a3f-a299-4f4d-bbf0-ae8139ded96e
-https://github.com/user-attachments/assets/d7aef1e1-2539-4de3-9599-2a198db034f
+![image](https://github.com/user-attachments/assets/61f32b1a-0275-444e-8a52-68a73c2f3b98)
+![image](https://github.com/user-attachments/assets/1046d4d8-d7da-4ffb-b48a-51bc91352042)
+![image](https://github.com/user-attachments/assets/fc5ef5a7-6572-4b7c-af48-77596cc6b3fb)
+
+
