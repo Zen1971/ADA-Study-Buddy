@@ -1,8 +1,16 @@
 # Projet-extension-navigateur-ada-study-buddy
 # Ada-Study-Buddy
 
-![image](https://github.com/user-attachments/assets/61f32b1a-0275-444e-8a52-68a73c2f3b98)
-![image](https://github.com/user-attachments/assets/1046d4d8-d7da-4ffb-b48a-51bc91352042)
-![image](https://github.com/user-attachments/assets/fc5ef5a7-6572-4b7c-af48-77596cc6b3fb)
+<p align="center">
+  <img src="https://res.cloudinary.com/dbu3ntrbw/image/upload/v1729239279/gr6e2e7chivmcl7sm9h6.png" alt="Capture d'écran 1" width="300"/>
+  <img src="https://res.cloudinary.com/dbu3ntrbw/image/upload/v1729239279/zgcbg8mw3sikc6f3bzfj.png" alt="Capture d'écran 2" width="300"/>
+  <img src="https://res.cloudinary.com/dbu3ntrbw/image/upload/v1729239279/obpihxwzibl2nxklzqyb.png" alt="Capture d'écran 3" width="300"/>
+</p>
+<!-- ### Capture d'écran 1
+![Capture d'écran 1](https://res.cloudinary.com/dbu3ntrbw/image/upload/v1729239279/gr6e2e7chivmcl7sm9h6.png)
+### Capture d'écran 2
+![Capture d'écran 2](https://res.cloudinary.com/dbu3ntrbw/image/upload/v1729239279/zgcbg8mw3sikc6f3bzfj.png)
+### Capture d'écran 3
+![Capture d'écran 3](https://res.cloudinary.com/dbu3ntrbw/image/upload/v1729239279/obpihxwzibl2nxklzqyb.png) -->
 
 
